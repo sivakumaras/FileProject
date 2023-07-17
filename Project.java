@@ -2,9 +2,9 @@ public class Project {
 
     public static void main(String args[]){
 
-        
 
-        int a = 20;
+
+        int a = 22;
 
         int b =2;
 
